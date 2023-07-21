@@ -8,3 +8,5 @@ Features:-
 2. Accurate representation of the Razorpay homepage UI and layout.
 3. Utilizes Tailwind CSS utility classes for styling and layout.
 4. Interactive components with smooth transitions and animations.
+
+Demo:- https://razorpay-tailwindcss-frontendclone-ms.netlify.app/
